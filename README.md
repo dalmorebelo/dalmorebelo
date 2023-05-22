@@ -13,7 +13,7 @@ Sou um Consultor de Sistemas com experiência em diferentes setores, incluindo S
 
 Habilidades
 
-TOTVS RM: Com mais de 15 anos de experiencia nos módulos de Backoffice e RH posso ajudar na implementação e manutenção dos sistemas TOTVS RM, criação de relatórios, planilhas, cubos e fórmulas visuais.
+TOTVS RM: Com mais de 15 anos de experiencia nos módulos de Backoffice e RH posso ajudar na implementação e manutenção dos sistemas RM, criação de relatórios, planilhas, cubos e fórmulas visuais.
 
 POWER BI: Criação de dashboards interativos e visualizações de dados. Participei de um Bootcamp onde desenvolvi um dashboard simulando um projeto para uma empresa real. 
 Você pode conferir o projeto completo no site www.powerminds.com.br.
