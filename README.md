@@ -20,4 +20,12 @@ Você pode conferir o projeto completo no site www.powerminds.com.br.
 
 DESENVOLVIMENTO WEB: Sou entusiasta de PHP, WordPress, JavaScript e Python. Venho estudando essas tecnologias e estou sempre em busca de inovações e novas abordagens para enfrentar desafios e fornecer resultados excepcionais.
 
-Estou ansioso para conectar-me com outros entusiastas da tecnologia e colaborar em projetos interessantes.
+
+## Redes Sociais
+<div>
+<a href="https://www.instagram.com/dalmorebelo/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a>  
+<a href="https://www.linkedin.com/in/dalmorebelo" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
