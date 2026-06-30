@@ -7,16 +7,15 @@ Bem-vindo ao meu perfil do Github!
 
 Aqui você encontrará informações sobre minha experiência, habilidades e projetos. Estou animado para compartilhar minha paixão pela tecnologia da informação e meu conhecimento com você.
 
-Sobre mim
+### Sobre mim
 
 Sou um Consultor de Sistemas com experiência em diferentes setores, incluindo Serviços, Energia, Varejo, Offshore entre outros. 
 
-Habilidades
+## Habilidades
 
 ERP TOTVS RM: Com mais de 15 anos de experiencia nos módulos de Backoffice e RH posso ajudar na implementação e manutenção dos sistemas RM, criação de relatórios, planilhas, cubos e fórmulas visuais.
 
-DESENVOLVIMENTO WEB: Estudo sobre soluções com WordPress, JavaScript, Python e recentemente Lavable. Venho estudando essas tecnologias e estou sempre em busca de inovações e novas abordagens para enfrentar desafios e fornecer resultados excepcionais.
-
+Desenvolvimento de soluções Web para pequenos e médios negócios, utilizando Inteligência artificial para otimização e automação de processos.
 
 
 ## Redes Sociais
